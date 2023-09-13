@@ -10,8 +10,9 @@ public class StudentRegister
         System.out.println("Enter student age");
         a.age= s.nextInt();
         System.out.println("Enter student RegNum");
-        a.regNum= s.nextLine();
+        a.regNum= s.next();
         
+        System.out.println("School:-" + a.schlNme);
         System.out.println("Name:-" + a.name);
         System.out.println("Age:-" + a.age);
         System.out.println("RegNum:-" +a.regNum);
