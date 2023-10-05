@@ -24,7 +24,7 @@ public class Account{
         dep= s.nextFloat();
         bal=bal+dep;
         System.out.println("Current Balance:-"+ bal);
-    } 
+    }              
 
     public void withdraw(){
         float amt;
