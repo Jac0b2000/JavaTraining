@@ -4,7 +4,7 @@ public class HelloWorld
     {
         // Print "Hello, World!" to the console
         System.out.println("Sobin");
-	System.out.println("Rahul");
-	System.out.println("Manoj");
+	    System.out.println("Rahul");
+	    System.out.println("Manoj");
     }
     }
